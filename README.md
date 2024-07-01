@@ -28,7 +28,7 @@ Create an image using vertices in Modern OpenGL, focusing on "YOUR DREAM HOLIDAY
 
 ### Texture :
 
-Mirror: Glass Texture Blue By Rhuday On Deviantart (http://www.hotizasexy.com/photos/Y9xlYXItYmx1ZS1nbGFzcy10ZXh0dXJlXzE.gif.html)
+- Mirror: Glass Texture Blue By Rhuday On Deviantart (http://www.hotizasexy.com/photos/Y9xlYXItYmx1ZS1nbGFzcy10ZXh0dXJlXzE.gif.html)
 
 - Sand:
 https://www.google.co.th/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fcartoon-sand-seamless-vector-pattern-summer-background-cartoon-sand-pattern-image158757125&psig=AOvVaw0F8vgZg_ZRyPlmQtEIQ4Vm&ust=1650451432186000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPi3_vL4n_cCFQAAAAAdAAAAABBb
