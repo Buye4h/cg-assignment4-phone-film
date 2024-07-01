@@ -17,6 +17,7 @@ Create an image using vertices in Modern OpenGL, focusing on "YOUR DREAM HOLIDAY
 ![image](https://github.com/Buye4h/cg-assignment4-phone-film/assets/73097117/dae769d5-3f94-4bd8-bbb4-0818fbbc344e)
 
 ## Reference
+(Used for educational purposes only)
 
 ### Model :
 
